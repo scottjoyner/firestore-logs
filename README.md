@@ -1,9 +1,17 @@
 # React Firebase
 
 <!-- repo-entrypoint-guide:start -->
-> **Repository context:** The existing README describes the React Firebase upstream documentation and examples. This checkout is `scottjoyner/firestore-logs`, but the documentation does not establish a custom logging service or live Firebase configuration.
-> 
-> **Safe setup:** Use a separate Firebase test project, confirm security rules and data-retention policy, and never commit client secrets, admin credentials, or user records.
+## Repository guide
+
+**Repository context:** The existing README describes the React Firebase upstream documentation and examples. This checkout is `scottjoyner/firestore-logs`, but the documentation does not establish a custom logging service or live Firebase configuration.
+
+**Safe setup:** Use a separate Firebase test project, confirm security rules and data-retention policy, and never commit client secrets, admin credentials, or user records.
+
+### Find your way
+
+- [Modules](#modules)
+- [Sandboxes](#sandboxes)
+- [Installation](#installation)
 <!-- repo-entrypoint-guide:end -->
 
 
